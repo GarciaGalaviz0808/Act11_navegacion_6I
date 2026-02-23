@@ -32,7 +32,7 @@ class TerceraPagina extends StatelessWidget {
                 ],
               ),
               child: const Center(
-                child: Text("Cuadrado Café", style: TextStyle(color: Colors.white)),
+                child: Text("Melanie Garcia 6I", style: TextStyle(color: Colors.white)),
               ),
             ),
             const SizedBox(height: 20),
